@@ -19,4 +19,4 @@ L3aked Hwid Spoofer Source Code By Me
 ============
 
 pip install requests 
-pip install colorama
+pip install colora
